@@ -3,8 +3,6 @@
 ##would be useful if you will often be re-computing the inverse
 ##of the same matrix.
 
-
-## Write a short comment describing this function
 ## This function handles functionality of the cache, namely,
 ## "setting" inverse data in the cache and "getting" that 
 ## inverse data from the cache.
