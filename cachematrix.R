@@ -5,6 +5,7 @@
 
 
 ## Write a short comment describing this function
+## This function handles functionality of the cache, namely,
 ## "setting" inverse data in the cache and "getting" that 
 ## inverse data from the cache.
 makeCacheMatrix <- function(x = matrix()) {
